@@ -1,7 +1,7 @@
 # FotoSozinha
 Funcionalidade para criar o cadastro e geração do CARD do patinador na 6ª edição da campanha #FotoSozinha da Operação Urban.
 
-O projeto tem a finalidade de incorporar no site da Operação Urban a opção do usuário criar o seu CARD na campanha.
+O projeto tem a finalidade de incorporar no site da "Operação" a opção do usuário criar o seu CARD na campanha.
 
 OBJETIVOS E FASES do Projeto:<br>
 --------
@@ -16,7 +16,7 @@ Na mesma página, haverá também a opção de cadastro de patinadores no site (
 O CARD
 -------
 O "CARD" do patinador é uma imagem com dados específicos e um layout padrão<br>
-A criação do card do patinador seguirá as etapas já existende e definidas da Operação Urban.
+A criação do card do patinador seguirá as etapas já existentes e definidas na campanha.
 
 O usuário (patinador) enviará os dados necessários e no final será gerado o CARD.
 O card é incorporado no Mapa da Patinação da região do patinador e divulgado nas redes sociais.
