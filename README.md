@@ -12,6 +12,13 @@ O usuário irá acessar a página da campanha e clicar em "Crie seu CARD".<br>
 Na mesma página, haverá também a opção de cadastro de patinadores no site (se o mesmo não tiver)
 
 -------
+PROGRAMAÇÃO NO SITE:<br>
+
+- Utilizar REACT + Next
+- testes iniciais
+- Página HOME
+- Página CADASTRO
+--------
 
 O CARD
 -------
