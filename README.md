@@ -18,6 +18,8 @@ PROGRAMAÇÃO NO SITE:<br>
 - testes iniciais
 - Página HOME
 - Página CADASTRO
+- Página LOGIN
+- Página PERFIL
 --------
 
 O CARD
